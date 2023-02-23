@@ -39,7 +39,7 @@ const skills = [
               <br />
               <p>
                 I graduated from KIIT University, Bhubaneswar in 2020
-                with a B-Tech in Information Technology and have been working in the
+                with a Bachelor's degree in Information Technology and have been working in the
                 field ever since.
               </p>
               <br />
