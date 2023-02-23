@@ -32,9 +32,9 @@ const skills = [
               <p>
                 Hi, my name is Aditya and I am a{" "}
                 <span className="font-bold">{"highly ambitious"}</span>,
-                <span className="font-bold">{" self-motivated"}</span>, and
-                <span className="font-bold">{" driven"}</span> software engineer
-                based in Los Angeles, CA.
+                <span className="font-bold">{" self-taught"}</span>, and
+                <span className="font-bold">{" driven"}</span> Web3 engineer
+                based in India.
               </p>
               <br />
               <p>
