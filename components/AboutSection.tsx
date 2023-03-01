@@ -7,6 +7,7 @@ const skills = [
     { skill: "Solidity" },
     { skill: "React" },
     { skill: "Next.js" },
+    { skill: "Node.js" },
     { skill: "Tailwind CSS" },
     { skill: "Git" },
     { skill: "GitHub" },
@@ -34,18 +35,18 @@ const skills = [
                 <span className="font-bold">{"highly ambitious"}</span>,
                 <span className="font-bold">{" self-motivated"}</span>, and
                 <span className="font-bold">{" driven"}</span> software engineer
-                based in Los Angeles, CA.
+                based in India.
               </p>
               <br />
               <p>
                 I graduated from KIIT University, Bhubaneswar in 2020
-                with a B-Tech in Information Technology and have been working in the
+                with a Bachelor's in Information Technology and have been working in the
                 field ever since.
               </p>
               <br />
               <p>
                 I have a wide range of hobbies and passions that keep me busy.
-                From reading, playing sports, traveling, to making Web3 Dapps,
+                From reading, playing sports, traveling, researching about new technologies, to making Web apps,
                 I am always seeking new experiences and love to keep myself
                 engaged and learning new things.
               </p>
