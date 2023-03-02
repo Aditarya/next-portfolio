@@ -21,11 +21,7 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
-<<<<<<< HEAD
               Full-Stack Engineer{" "}
-=======
-              Web3 Engineer{" "}
->>>>>>> 4976f5e6e701a225af2a68b0ed75c20eb36a3832
             </span>
             specializing in building (and occasionally designing) exceptional digital experiences. I enjoy creating things that live on the internet and that
             makes our life easier and more meaningful.
