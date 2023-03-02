@@ -33,14 +33,23 @@ const skills = [
               <p>
                 Hi, my name is Aditya and I am a{" "}
                 <span className="font-bold">{"highly ambitious"}</span>,
+<<<<<<< HEAD
                 <span className="font-bold">{" self-motivated"}</span>, and
                 <span className="font-bold">{" driven"}</span> software engineer
+=======
+                <span className="font-bold">{" self-taught"}</span>, and
+                <span className="font-bold">{" driven"}</span> Web3 engineer
+>>>>>>> 4976f5e6e701a225af2a68b0ed75c20eb36a3832
                 based in India.
               </p>
               <br />
               <p>
                 I graduated from KIIT University, Bhubaneswar in 2020
+<<<<<<< HEAD
                 with a Bachelor's in Information Technology and have been working in the
+=======
+                with a Bachelor's degree in Information Technology and have been working in the
+>>>>>>> 4976f5e6e701a225af2a68b0ed75c20eb36a3832
                 field ever since.
               </p>
               <br />
