@@ -5,6 +5,38 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "Web3 paypal Dapp",
+    description:
+      "Invest in the future of Web3 relm with Your IRA and Buy, Sell, and store hundreds of cryptocurrencies",
+    image: "/gpay.png",
+    github: "https://github.com/Aditarya/Defi-client-app",
+    link: "https://defi-onclick.vercel.app/",
+  },
+  {
+    name: "Aptos Explorer",
+    description:
+      "Invest in the future of Web3 relm with Your IRA and Buy, Sell, and store hundreds of cryptocurrencies",
+    image: "/etherscan.png",
+    github: "https://github.com/Aditarya/web3-block-explorer",
+    link: "https://defi-onclick.vercel.app/",
+  },
+  {
+    name: "Defi Explorer App",
+    description:
+      "Invest in the future of Web3 relm with Your IRA and Buy, Sell, and store hundreds of cryptocurrencies",
+    image: "/defi.png",
+    github: "https://github.com/Aditarya/Defi-client-app",
+    link: "https://defi-onclick.vercel.app/",
+  },
+  {
+    name: "Real-time Crypto Explorer",
+    description:
+      "A Real Time Cryptocurrency Price and Stats Tracker App.",
+    image: "/tracker.png",
+    github: "https://github.com/Aditarya/crypto_price_tracker",
+    link: "https://crypto-price-tracker-iota.vercel.app/",
+  },
+  {
     name: "AI Image Generator",
     description:
       "A Full-stack MERN AI Text-2-Image Generation App.",
